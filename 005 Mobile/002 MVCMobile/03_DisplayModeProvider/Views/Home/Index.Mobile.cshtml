@@ -1,0 +1,22 @@
+﻿@model IList<IDisplayMode>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Mobile view</h2>
+
+<p>@ViewBag.Data</p>
+
+<p>
+    <b>User-Agent:</b> @Request.Headers.GetValues("User-Agent").FirstOrDefault()
+</p>
+
+<table>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>Display Mode: <b>@item.DisplayModeId</b></td>
+            <td>@Html.DrawBool(item.CanHandleContext(ViewContext.HttpContext))</td>
+        </tr>
+    }
+</table>

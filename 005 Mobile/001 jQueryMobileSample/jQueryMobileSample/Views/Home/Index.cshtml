@@ -1,0 +1,22 @@
+﻿@{
+    Layout = null;
+    ViewBag.Title = "Index";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>jQuery Mobile</title>
+</head>
+<body>
+    <ul>
+        <li>@Html.ActionLink("Простая страница", "GetPage", new { id = "SimplePage" })</li>
+        <li>@Html.ActionLink("Кнопка", "GetPage", new { id = "Button" })</li>
+        <li>@Html.ActionLink("ListView", "GetPage", new { id = "ListView" })</li>
+        <li>@Html.ActionLink("Slider", "GetPage", new { id = "Slider" })</li>
+        <li>@Html.ActionLink("Темы", "GetPage", new { id = "Theme" })</li>
+        <li>@Html.ActionLink("AJAX Test", "Index", "AjaxTest")</li>
+    </ul>
+</body>
+</html>
+

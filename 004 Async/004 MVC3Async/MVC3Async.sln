@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelLibrary", "ModelLibrary\ModelLibrary.csproj", "{AF1F668D-B9DD-47C0-81AF-0875922EA8D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncControllerMVC3", "AsyncControllerOld\AsyncControllerMVC3.csproj", "{6D1B7645-75EF-4FD9-B7E6-005A66EF3592}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF1F668D-B9DD-47C0-81AF-0875922EA8D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF1F668D-B9DD-47C0-81AF-0875922EA8D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF1F668D-B9DD-47C0-81AF-0875922EA8D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF1F668D-B9DD-47C0-81AF-0875922EA8D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D1B7645-75EF-4FD9-B7E6-005A66EF3592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D1B7645-75EF-4FD9-B7E6-005A66EF3592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D1B7645-75EF-4FD9-B7E6-005A66EF3592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D1B7645-75EF-4FD9-B7E6-005A66EF3592}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

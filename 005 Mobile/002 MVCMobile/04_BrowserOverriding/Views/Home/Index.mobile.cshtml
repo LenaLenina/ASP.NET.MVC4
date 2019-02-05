@@ -1,0 +1,27 @@
+﻿@model IList<IDisplayMode>
+@{
+    ViewBag.Title = "Index";
+}
+<style>
+    body {
+        background-color: #e7efff;
+    }
+</style>
+
+@Html.Partial("_Buttons")
+
+<h2>Mobile view</h2>
+
+<p>@ViewBag.Data</p>
+<div><b>User-Agent:</b> @Request.UserAgent</div>
+<div><b>Override user agent:</b> @Server.UrlDecode(ViewContext.HttpContext.GetOverriddenUserAgent())</div>
+
+<table>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>Display Mode: <b>@item.DisplayModeId</b></td>
+            <td>@item.CanHandleContext(ViewContext.HttpContext)</td>
+        </tr>
+    }
+</table>

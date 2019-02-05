@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<button id="btnDelete">DELETE</button>
+<button id="btnPut">PUT</button>
+
+@section scripts
+{
+    <script>
+        $("#btnDelete").click(function () {
+            $.ajax({
+                url: "/api/test/1",
+                type: "POST",
+                headers: {
+                    "X-HTTP-Method-Override": "DELETE"
+                }
+            });
+        });
+
+        $("#btnPut").click(function () {
+            $.ajax({
+                url: "/api/test/1",
+                type: "POST",
+                headers: {
+                    "X-HTTP-Method-Override": "PUT"
+                }
+            });
+        });
+    </script>
+}

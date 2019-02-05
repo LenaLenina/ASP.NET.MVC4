@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Журнал создания кода/преобразования текста">
+  <MessageClass Name="Message" Label="Сообщение" Option="Показывать информационные сообщения" />
+  <MessageClass Name="Warning" Label="Предупреждение" Option="Показывать предупреждения" />
+  <MessageClass Name="Error" Label="Ошибка" Option="Показывать ошибки" />
+  <MessageClass Name="Property" Label="Свойство" Option="Показывать метаданные" />
+  <MessageClass Name="Diagnostic" Label="Сообщение" Option="Показывать диагностические сообщения" />
+  <Message Timestamp="2018-02-10T15:43:15" Importance="High" Text="Реконструирование запущено." />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;d1eaca2c-a7a9-4c04-8999-66ee1fbc5f95&quot; -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Integer&quot; -  (PrimitiveType)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;String&quot; -  (PrimitiveType)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::System&quot; -  (Package)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::System::Nullable&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::System::Nullable&lt;AccountController‎‎.ManageMessageId‎&gt;&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::System::Web&quot; -  (Package)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::System::Web::Mvc&quot; -  (Package)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::System::Web::Mvc::ActionResult&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::System::Web::Mvc::Controller&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::System::Web::Mvc::ControllerContext&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::System::Web::Security&quot; -  (Package)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::System::Web::Security::MembershipCreateStatus&quot; -  (Enumeration)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager&quot; -  (Package)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Domain&quot; -  (Package)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Domain::IDALContext&quot; -  (Interface)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Domain::ITaskRepository&quot; -  (Interface)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Domain::IUserProfileRepository&quot; -  (Interface)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Domain::Task&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web&quot; -  (Package)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers&quot; -  (Package)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController&quot; -  (Class)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::AccountController&quot; -  (Operation)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::Disassociate&quot; -  (Operation)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::Disassociate::provider&quot; -  (Parameter)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::Disassociate::providerUserId&quot; -  (Parameter)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::ErrorCodeToString&quot; -  (Operation)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::ErrorCodeToString::createStatus&quot; -  (Parameter)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::ExternalLogin&quot; -  (Operation)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::ExternalLogin::provider&quot; -  (Parameter)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::ExternalLogin::returnUrl&quot; -  (Parameter)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::ExternalLoginCallback&quot; -  (Operation)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::ExternalLoginCallback::returnUrl&quot; -  (Parameter)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::ExternalLoginConfirmation&quot; -  (Operation)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::ExternalLoginConfirmation::model&quot; -  (Parameter)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::ExternalLoginConfirmation::returnUrl&quot; -  (Parameter)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::ExternalLoginFailure&quot; -  (Operation)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::ExternalLoginsList&quot; -  (Operation)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::ExternalLoginsList::returnUrl&quot; -  (Parameter)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::Login&quot; -  (Operation)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::Login::model&quot; -  (Parameter)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::Login::returnUrl&quot; -  (Parameter)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::LogOff&quot; -  (Operation)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::Manage&quot; -  (Operation)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::Manage::message&quot; -  (Parameter)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::Manage::model&quot; -  (Parameter)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::RedirectToLocal&quot; -  (Operation)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::RedirectToLocal::returnUrl&quot; -  (Parameter)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::Register&quot; -  (Operation)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::Register::model&quot; -  (Parameter)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::AccountController::RemoveExternalLogins&quot; -  (Operation)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::ExternalLoginResult&quot; -  (Class)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::ExternalLoginResult::ExecuteResult&quot; -  (Operation)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::ExternalLoginResult::ExecuteResult::context&quot; -  (Parameter)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::ExternalLoginResult::ExternalLoginResult&quot; -  (Operation)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::ExternalLoginResult::ExternalLoginResult::provider&quot; -  (Parameter)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::ExternalLoginResult::ExternalLoginResult::returnUrl&quot; -  (Parameter)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::ExternalLoginResult::Provider&quot; -  (Property)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::ExternalLoginResult::ReturnUrl&quot; -  (Property)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::HomeController&quot; -  (Class)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::HomeController::About&quot; -  (Operation)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::HomeController::Contact&quot; -  (Operation)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::HomeController::HomeController&quot; -  (Operation)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::HomeController::Index&quot; -  (Operation)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::ManageMessageId&quot; -  (Enumeration)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::ManageMessageId::ChangePasswordSuccess&quot; -  (EnumerationLiteral)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::ManageMessageId::RemoveLoginSuccess&quot; -  (EnumerationLiteral)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::ManageMessageId::SetPasswordSuccess&quot; -  (EnumerationLiteral)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::TaskController&quot; -  (Class)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::TaskController::_tasks&quot; -  (Property)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::TaskController::_users&quot; -  (Property)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::TaskController::Create&quot; -  (Operation)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::TaskController::Create::task&quot; -  (Parameter)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::TaskController::Delete&quot; -  (Operation)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::TaskController::Delete::id&quot; -  (Parameter)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::TaskController::DeleteConfirmed&quot; -  (Operation)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::TaskController::DeleteConfirmed::id&quot; -  (Parameter)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::TaskController::Edit&quot; -  (Operation)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::TaskController::Edit::id&quot; -  (Parameter)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::TaskController::Edit::task&quot; -  (Parameter)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::TaskController::Index&quot; -  (Operation)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::TaskController::TaskController&quot; -  (Operation)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Controllers::TaskController::TaskController::context&quot; -  (Parameter)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Models&quot; -  (Package)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Models::LocalPasswordModel&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Models::LoginModel&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Models::RegisterExternalLoginModel&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;UML::TaskManager::Web::Models::RegisterModel&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: UML::TaskManager::Web::Controllers::HomeController в UML::System::Web::Mvc::Controller (Generalization)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: UML::TaskManager::Web::Controllers::TaskController в UML::System::Web::Mvc::Controller (Generalization)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: UML::TaskManager::Web::Controllers::ExternalLoginResult в UML::System::Web::Mvc::ActionResult (Generalization)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: UML::TaskManager::Web::Controllers::AccountController в UML::System::Web::Mvc::Controller (Generalization)" />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="High" Text="Полностью реконструировано (5) типов." />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="High" Text="Частично реконструировано (14) типов.  Эти типы не были включены в исходный выбор, поэтому их полные определения не реконструированы.  Данная пустая операция лишь проверила наличие этих типов в модели UML, поскольку они необходимы для полного описания других элементов." />
+  <Message Timestamp="2018-02-10T15:43:21" Importance="High" Text="Операция реконструирования завершена; ошибок: (0), предупреждений: (0)." />
+</Log>

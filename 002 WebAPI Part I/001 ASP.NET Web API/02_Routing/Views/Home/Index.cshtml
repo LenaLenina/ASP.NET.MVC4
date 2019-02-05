@@ -1,0 +1,36 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+
+    <button id="button">Получить дату</button>
+    <p id="date"></p>
+
+    <script src="~/Scripts/jquery-1.7.1.min.js"></script>
+
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            $("#button").click(getDate);
+        });
+
+        function getDate() {
+            var url = "/api/date"
+
+            // Создание запроса по адресу "/api/date" и вывод ответа в элемент c id="date"
+            $.getJSON(url, function (data) {
+                $("#date").text(data);
+            });
+        }
+
+    </script>
+</body>
+</html>

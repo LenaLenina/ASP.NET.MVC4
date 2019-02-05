@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_TPL", "01_TPL\01_TPL.csproj", "{9B23AC65-F801-4F32-AC47-403E257BBABF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_TPL", "02_TPL\02_TPL.csproj", "{66D0927C-CEF9-4F66-929E-3E68A98225C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Async_Await", "03_Async_Await\03_Async_Await.csproj", "{90B99D38-4FD3-4878-B72F-689E97C93704}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B23AC65-F801-4F32-AC47-403E257BBABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B23AC65-F801-4F32-AC47-403E257BBABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B23AC65-F801-4F32-AC47-403E257BBABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B23AC65-F801-4F32-AC47-403E257BBABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66D0927C-CEF9-4F66-929E-3E68A98225C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D0927C-CEF9-4F66-929E-3E68A98225C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D0927C-CEF9-4F66-929E-3E68A98225C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D0927C-CEF9-4F66-929E-3E68A98225C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90B99D38-4FD3-4878-B72F-689E97C93704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B99D38-4FD3-4878-B72F-689E97C93704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B99D38-4FD3-4878-B72F-689E97C93704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B99D38-4FD3-4878-B72F-689E97C93704}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

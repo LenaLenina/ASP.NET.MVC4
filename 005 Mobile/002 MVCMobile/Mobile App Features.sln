@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_MobileAppTemplate", "01_MobileAppTemplate\01_MobileAppTemplate.csproj", "{35E5091A-D45E-49AC-AE1D-4E0B830C5708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_DisplayModes", "02_DisplayModes\02_DisplayModes.csproj", "{9617C27C-2958-4CCB-BD2D-09A87C6AE2A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_DisplayModeProvider", "03_DisplayModeProvider\03_DisplayModeProvider.csproj", "{9637C8D8-E6F0-4B05-BB03-5CF199187985}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_BrowserOverriding", "04_BrowserOverriding\04_BrowserOverriding.csproj", "{801E2BC9-0779-4DA2-8A26-253F9396F9BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35E5091A-D45E-49AC-AE1D-4E0B830C5708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E5091A-D45E-49AC-AE1D-4E0B830C5708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E5091A-D45E-49AC-AE1D-4E0B830C5708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E5091A-D45E-49AC-AE1D-4E0B830C5708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9617C27C-2958-4CCB-BD2D-09A87C6AE2A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9617C27C-2958-4CCB-BD2D-09A87C6AE2A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9617C27C-2958-4CCB-BD2D-09A87C6AE2A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9617C27C-2958-4CCB-BD2D-09A87C6AE2A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9637C8D8-E6F0-4B05-BB03-5CF199187985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9637C8D8-E6F0-4B05-BB03-5CF199187985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9637C8D8-E6F0-4B05-BB03-5CF199187985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9637C8D8-E6F0-4B05-BB03-5CF199187985}.Release|Any CPU.Build.0 = Release|Any CPU
+		{801E2BC9-0779-4DA2-8A26-253F9396F9BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{801E2BC9-0779-4DA2-8A26-253F9396F9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{801E2BC9-0779-4DA2-8A26-253F9396F9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{801E2BC9-0779-4DA2-8A26-253F9396F9BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

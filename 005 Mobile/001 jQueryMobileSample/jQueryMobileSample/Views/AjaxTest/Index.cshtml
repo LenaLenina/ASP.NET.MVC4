@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<p>
+    Когда нажимается ссылка или кнопка на форме, событие перехватывается и происходит AJAX запрос на сервер.<br />
+    Пока происходит запрос на сервер страница отображает индекатор загрузки.<br />
+    Когда запрашиваемая страница загружается jQuery Mobile находит в разметке элемент с атрибутом data-role="page"
+    и внедряет этот элемент в DOM текущей страницы<br />
+    <a href="http://jquerymobile.com/demos/1.3.0-rc.1/docs/demos/widgets/ajax-nav/">Ajax navigation</a>
+</p>
+
+@Html.ActionLink("First", "First", null, new { data_role = "button" })
+@Html.ActionLink("Second", "Second", null, new { data_role = "button" })
